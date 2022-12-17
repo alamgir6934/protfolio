@@ -1,0 +1,27 @@
+[
+    {
+        "_id": "62a9e6de55ff14cd5d8aaa4c",
+        "image1": "https://i.ibb.co/MCFTgY0/chaffer-png.png",
+        "image2": "https://i.ibb.co/yswm3wY/Admin-page.png",
+        "image3": "https://i.ibb.co/zsnTBDZ/category-page.png",
+        "image4": "https://i.ibb.co/brsqw8q/product-page.png",
+        "name": "Chaffer-resale-book",
+        "about": "- A MERN stack project this project mainly based on Old Books Selling-Buying Site with three types of users, namely, buyers, sellers, and admins."
+    },
+    {
+        "_id": "62a9e6de6b2af37878ffcafc",
+        "image1": "https://i.ibb.co/d4tRQ6T/consult-png.png",
+        "image2": "https://i.ibb.co/xqFc87Z/service-page.png",
+        "image3": "https://i.ibb.co/6NfhGT6/review-details-page.png",
+        "image4": "https://i.ibb.co/1sKT2TT/review-page.png",
+        "name": "consult services",
+        "about": "- A MERN stack project, this project is mainly based on service centers in different categories people take the services as their needs."
+    },
+    {
+        "_id": "62a9e6de410766c583ab6a92",
+        "image1": "https://i.ibb.co/1XCkCTB/hometutor-png.png",
+        "image2": "https://i.ibb.co/kchYpYt/category-page-2.png",
+        "name": "Home tutor",
+        "about": "- A MERN  stack project is mainly based on online courses, student can enroll in any subject and carry their study through online. '"
+    }
+]
